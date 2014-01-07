@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">NavigationDrawer</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string-array name="planets_array">
+        <item >Planet 1</item>
+        <item >Planet 2</item>
+        <item >Planet 3</item>
+    </string-array>
+    <string name="drawer_open">drawer is open</string>
+    <string name="drawer_close">drawer is close</string>
+
+</resources>
